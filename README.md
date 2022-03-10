@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-<li>Currently, In my third year of Undergrad program, Studying Electrical and Electronics from SRMIST.</li>
+<li>Currently, In my 3rd year of Undergrad program, Studying Electrical and Electronics from SRMIST.</li>
  
 <img src="https://user-images.githubusercontent.com/65285463/149609899-0d8fd4f9-46f0-4a03-a4e3-b06249a89cac.gif" height="300px" width="300px" style=" display: block;
   margin-left: auto;
