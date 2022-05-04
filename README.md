@@ -9,13 +9,14 @@
 
 
 - 🌱 I’m currently learning DATA ANALYSIS  
-<!-- - 🔭 I’m currently working on
-- 🌱 I’m currently learning 
- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
- - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- - 💬 Ask me about ...-->
-- 📫 How to reach me: rupam.altavista@gmail.com
+ - 🔭 I’m currently working on Data Analytics and Visualisation
+- 🌱 I’m currently learning Full Stack Web Development and Advance Data Analytics
+ - 👯 I’m looking to collaborate on Data Science Projects
+- 🤔 I’m looking for help with Full Stack Development 
+ - 😄 Pronouns: His/Him
+- ⚡ Fun fact: Electrical Engineer!!!
+ - 💬 Ask me about Electronics ,Front End , Data Analysis using R or Python and Tableau.
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/rupam-chattopadhyay"> <img src="https://cdn1.iconfinder.com/data/icons/social-media-rounded-corners/512/Rounded_Linkedin2_svg-512.png" height="20px" width="20px"  > </a> <a href="mailto:rupam.altavista@gmail.com"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/gmail-128.png" height="20px" width="20px"  > </a>
+
 
 
