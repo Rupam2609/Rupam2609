@@ -8,9 +8,8 @@
   width: 50%; ">
 
 
-- 🌱 I’m currently learning DATA ANALYSIS  
+- 🌱 I’m currently learning Full Stack Web Development and DATA ANALYSIS  
  - 🔭 I’m currently working on Data Analytics and Visualisation
-- 🌱 I’m currently learning Full Stack Web Development and Advance Data Analytics
  - 👯 I’m looking to collaborate on Data Science Projects
 - 🤔 I’m looking for help with Full Stack Development 
  - 😄 Pronouns: His/Him
